@@ -372,6 +372,40 @@ h2 {
   font-size: 15px;
 }
 
+.promotions {
+  padding: 0 42px 78px;
+}
+
+.promotions .section-heading {
+  margin-bottom: 24px;
+}
+
+.promotion-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 22px;
+}
+
+.promotion-art {
+  display: block;
+  overflow: hidden;
+  border-radius: var(--radius);
+  background: var(--ink);
+  transition: transform 180ms ease;
+}
+
+.promotion-art:hover {
+  transform: translateY(-3px);
+}
+
+.promotion-art img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
 .pricing {
   padding: 64px 60px 70px;
   display: grid;
@@ -821,6 +855,11 @@ h2 {
     padding-left: 28px;
   }
 
+  .promotions {
+    padding-right: 28px;
+    padding-left: 28px;
+  }
+
   .pricing {
     margin: 0 20px;
     padding: 46px 35px;
@@ -971,6 +1010,15 @@ h2 {
 
   .service-item p {
     max-width: 300px;
+  }
+
+  .promotions {
+    padding: 0 20px 55px;
+  }
+
+  .promotion-grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
   }
 
   .pricing {
