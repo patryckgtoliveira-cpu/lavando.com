@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Promoção de lavagem de terno por R$ 50 — lavando.com</title>
+  <desc id="description">Arte promocional azul e laranja da lavando.com com uma ilustração de terno bem cuidado.</desc>
+  <defs>
+    <linearGradient id="background" x1="120" y1="68" x2="944" y2="1002" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#214F6B"/>
+      <stop offset="1" stop-color="#122D40"/>
+    </linearGradient>
+    <linearGradient id="jacket" x1="561" y1="518" x2="971" y2="925" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#42657A"/>
+      <stop offset=".54" stop-color="#29485D"/>
+      <stop offset="1" stop-color="#1A3549"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="712" y1="554" x2="814" y2="809" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#D9E7ED"/>
+    </linearGradient>
+    <filter id="shadow" x="469" y="406" width="601" height="591" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+      <feOffset dy="18"/>
+      <feGaussianBlur stdDeviation="17"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix values="0 0 0 0 0.02 0 0 0 0 0.12 0 0 0 0 0.19 0 0 0 0.28 0"/>
+      <feBlend in2="BackgroundImageFix" result="effect1_dropShadow"/>
+      <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+    </filter>
+  </defs>
+
+  <rect width="1080" height="1080" rx="38" fill="url(#background)"/>
+  <circle cx="847" cy="608" r="362" fill="#276B91" fill-opacity=".52"/>
+  <circle cx="1000" cy="141" r="204" fill="#8BC4E3" fill-opacity=".08"/>
+  <path d="M0 871C179 799 336 840 483 920C649 1010 837 1042 1080 928V1080H0V871Z" fill="#0C2637" fill-opacity=".42"/>
+
+  <g font-family="Aptos, Segoe UI, Arial, sans-serif">
+    <circle cx="90" cy="90" r="28" fill="#F08A40"/>
+    <text x="90" y="100" fill="#17374D" font-size="29" font-weight="800" text-anchor="middle">L</text>
+    <text x="132" y="99" fill="#F2F7FB" font-size="31" font-weight="750" letter-spacing="-1.4">lavando<tspan fill="#F08A40">.com</tspan></text>
+
+    <rect x="76" y="179" width="230" height="48" rx="24" fill="#F08A40"/>
+    <circle cx="103" cy="203" r="5" fill="#17374D"/>
+    <text x="123" y="210" fill="#17374D" font-size="17" font-weight="800" letter-spacing="2.1">OFERTA ESPECIAL</text>
+
+    <text x="75" y="333" fill="#F2F7FB" font-size="83" font-weight="600" letter-spacing="-4">TERNO</text>
+    <text x="79" y="387" fill="#BBD4E1" font-size="27" font-weight="450" letter-spacing=".2">Lavagem com cuidado e</text>
+    <text x="79" y="425" fill="#BBD4E1" font-size="27" font-weight="450" letter-spacing=".2">atenção para a sua peça.</text>
+
+    <rect x="76" y="473" width="384" height="173" rx="25" fill="#F08A40"/>
+    <text x="105" y="526" fill="#17374D" font-size="19" font-weight="800" letter-spacing="2.6">PROMOÇÃO</text>
+    <text x="99" y="616" fill="#17374D" font-size="88" font-weight="800" letter-spacing="-4">R$ 50</text>
+    <path d="M423 493L428 507L442 512L428 517L423 531L418 517L404 512L418 507L423 493Z" fill="#FFF2E7"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <path d="M731 477C731 452 751 432 776 432C801 432 821 452 821 477" stroke="#E8F1F5" stroke-width="14" stroke-linecap="round"/>
+    <path d="M776 432L793 414" stroke="#E8F1F5" stroke-width="12" stroke-linecap="round"/>
+    <path d="M670 506L776 466L882 506L976 585L938 654L901 630V900H651V630L614 654L576 585L670 506Z" fill="url(#jacket)"/>
+    <path d="M730 482L776 466L822 482L803 561L776 583L749 561L730 482Z" fill="#1B3548"/>
+    <path d="M746 479L776 466L806 479L791 550L776 568L761 550L746 479Z" fill="url(#shirt)"/>
+    <path d="M767 515L785 515L795 557L776 581L757 557L767 515Z" fill="#F08A40"/>
+    <path d="M757 557L776 581L795 557L815 666L776 709L737 666L757 557Z" fill="#D87937"/>
+    <path d="M670 506L730 482L758 553L700 632L651 574L670 506Z" fill="#34556B"/>
+    <path d="M882 506L822 482L794 553L852 632L901 574L882 506Z" fill="#34556B"/>
+    <path d="M758 553L776 581L737 666L701 632L758 553Z" fill="#223F54"/>
+    <path d="M794 553L776 581L815 666L851 632L794 553Z" fill="#223F54"/>
+    <path d="M651 630L698 667V900H651V630Z" fill="#1D3A4F"/>
+    <path d="M901 630L854 667V900H901V630Z" fill="#1D3A4F"/>
+    <path d="M652 672L729 704L717 782L651 747L652 672Z" fill="#2C4A5E"/>
+    <path d="M900 672L823 704L835 782L901 747L900 672Z" fill="#2C4A5E"/>
+    <path d="M695 699L716 708L709 723L688 714L695 699Z" fill="#F08A40"/>
+    <path d="M857 699L836 708L843 723L864 714L857 699Z" fill="#F08A40"/>
+    <path d="M689 744L717 756" stroke="#91B4C6" stroke-width="4" stroke-linecap="round"/>
+    <path d="M863 744L835 756" stroke="#91B4C6" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="776" cy="738" r="4" fill="#E8F1F5"/>
+    <circle cx="776" cy="785" r="4" fill="#E8F1F5"/>
+    <path d="M671 875H881" stroke="#8BC4E3" stroke-opacity=".32" stroke-width="2"/>
+  </g>
+
+  <g fill="#F08A40">
+    <circle cx="927" cy="378" r="7"/>
+    <circle cx="967" cy="404" r="4"/>
+    <circle cx="890" cy="405" r="4"/>
+  </g>
+  <path d="M940 354L945 368L959 373L945 378L940 392L935 378L921 373L935 368L940 354Z" fill="#F08A40"/>
+
+  <path d="M77 711H439" stroke="#8BC4E3" stroke-opacity=".4" stroke-width="2"/>
+  <g font-family="Aptos, Segoe UI, Arial, sans-serif">
+    <text x="78" y="760" fill="#F2F7FB" font-size="19" font-weight="650">Cuidado simples, rotina leve.</text>
+    <text x="78" y="799" fill="#BBD4E1" font-size="17" font-weight="450">lavando.com</text>
+  </g>
+
+  <circle cx="974" cy="949" r="31" fill="#F08A40"/>
+  <path d="M960 949H988M979 940L988 949L979 958" stroke="#17374D" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
